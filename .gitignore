@@ -1,0 +1,6 @@
+the_terraform_book/
+tfb-code/
+dc/development/.terraform/
+dc/development/modules/remote_state/.terraform/
+base/.terraform/
+dc/modules/remote_state/.terraform/
